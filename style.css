@@ -1,0 +1,16 @@
+.card {
+    width:300px;
+    border: 2px solid black;
+    margin: 0 auto;
+    margin-top: 20px;
+    padding: 5px;
+}
+.image img {
+    width: 100%;
+}
+
+.paragraph p {
+    width: 100%;
+    padding: 10px;
+}
+

@@ -1,0 +1,32 @@
+.main {
+    background-color: rgb(209, 178, 131);
+    margin: 40px;
+    padding: 20px;
+}
+
+.cardhead {
+    padding: 30px;
+    display: flex;
+    justify-content: center;
+}
+.cards {
+    width: 200px; 
+    margin: 10px 10px;
+    padding: 50px;
+    background-color: white;
+    box-shadow: 2px 2px 2px 2px rgb(32, 31, 30);
+}
+ .image img {
+     width: 100%;
+ }
+
+
+.read {
+    font-size: 28px;
+}
+
+.ok {
+    text-align: center;
+}
+
+
